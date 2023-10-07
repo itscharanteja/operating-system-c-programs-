@@ -17,6 +17,11 @@ f[a]=1;
 }
 x: printf("Enter index starting block and length: ");
 scanf("%d%d", &st,&len);
+
+
+
+
+  
 k=len;
 if(f[st]==0)
 {
